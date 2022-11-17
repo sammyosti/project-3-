@@ -22,3 +22,7 @@
 > Subscribers tends to use the service in weekdays, in contrast Customers have more flexible time.
 > Subscribers is have very intense usage at peak hour, Customers have more flexible time.
 
+
+The dataset for the project can be found on the link below:
+
+https://drive.google.com/drive/folders/18sdqwMAFF1ZbAMciyA3jTttagWIYFiOQ?usp=share_link
